@@ -1,0 +1,18 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.DragItem {
+  color: green;
+  list-style: none;
+  cursor: move;
+  padding: 16px;
+  border: 1px solid green;
+  margin: 32px;
+  display: flex;
+  flex-direction: column;
+}
